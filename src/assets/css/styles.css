@@ -1,0 +1,142 @@
+* {
+  font-family: "Montserrat";
+}
+
+.white {
+  color: #ffff;
+}
+
+.font-size12 {
+  font-size: 12px;
+}
+
+
+
+/* begin nav */
+
+.nav {
+  height: 40px;
+  color: #323232;
+}
+
+.items-nav {
+  margin-right: 10px;
+}
+
+.icon-phone-nav {
+  color: white;
+}
+
+.icon-mail-nav {
+  margin-top: -6px;
+}
+
+.infor {
+  display: flex;
+  margin-top: 15px;
+}
+
+.log-in {
+  display: flex;
+  margin-top: 15px;
+}
+.log-in a {
+  text-decoration: none;
+}
+.icon-login {
+  width: 16px;
+  height: 16px;
+}
+
+/* end nav */
+
+/* begin nav-bot */
+.nav-bot {
+  height: 80px;
+}
+
+.logo-cls{
+  width: 160px;
+  height: 51px;
+}
+
+#nav-list .navbar-light .navbar-nav .nav-link:hover, .navbar-light .navbar-nav .nav-link:focus {
+  color: #0282CD !important;
+}
+
+.items-nav-bot>a{
+  color: #181F28 !important;
+}
+
+/* about */
+.course{
+  margin-top: 45px;
+  width: 33%;
+}
+.about{
+  margin-top: 15%;
+  display: flex;
+  flex-wrap: wrap;
+}
+.about-title{
+  width: 100%;
+  text-align: center;
+}
+.icon-20{
+  width: 20px;
+  height: 20px;
+}
+
+.card-text{
+  margin-top: 24px;
+}
+.card-text div{
+  margin-bottom: -6px;
+}
+
+.card{
+  border-radius: 0 !important;
+  max-width: max-content;
+}
+.course-items{
+  margin: 0 14px;
+}
+/* end about */
+
+
+/* list */
+
+
+.items{
+  width: 23%;
+  margin: 0 8px;
+  text-align: center;
+}
+
+.avatar-items{
+  margin-top: 20px;
+}
+
+.header-items{
+  height: 16px;
+  width: 255px;
+  background-color: #FFB03B !important;
+  border-radius: 0 !important;
+}
+.items-title{
+  margin-top: 8px;
+}
+
+
+/* button */
+.button-them{
+  width: 100%;
+  margin-top: 10%;
+  text-align: center;
+}
+.btn{
+  color: #ffff !important;
+  
+}
+
+/* end button */
